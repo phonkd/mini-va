@@ -1,14 +1,13 @@
 ***
 
-- Man kann schlaf nachholen / nicht
+- Ist es möglich seinen Schlaf nachholen oder sogar vorzuschlafen?
 - Gewisse Frequenzen helfen beim einschlafen
 - Mittagsschlaf ist gesund
 - Der beste schlaf ist vor mitternacht (doppelt so gut)
 - Lässt körperliche Aktivität (sport) einem schlechter einschlafen?
-- Langzeit auswirkung von schlafmittel auf schlaf
-- Wie sinnvoll ist ein regelmässiger schlafrythmus
-	- Vorschlafen ist möglich
-- Cannabis und schlaf
+- Langzeit Auswirkung von Schlafmittel auf Schlaf
+- Wie sinnvoll ist ein regelmässiger Schlafrhythmus
+- Cannabis und Schlaf
 ## Polyphrasic sleep
 
 https://en.wikipedia.org/wiki/Polyphasic_sleep
